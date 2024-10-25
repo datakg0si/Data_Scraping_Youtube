@@ -1,2 +1,3 @@
-# Data_Scraping_Youtube
-Using Python to scrap a youtube channel's data
+# Data Scraping Youtube
+
+Using Python to scrap a youtube channel's data. The channel of course was a popular youtuber called 'Domics'. Primarily the aim was to get the channel's view count, like count and comment count for analysis using Python to scrap a youtube channel's data. The channel of course was a popular youtuber called 'Domics'. Primarily the aim was to get the channel's view count, like count, comment count and lastly the sub count. This data was extracted using a series of functions on python and lastly the data was converted to a dataframe that i can manipulate in juypter notebook with pandas.
